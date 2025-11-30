@@ -1,6 +1,8 @@
 This project presents a modern digital business model aimed at expanding Indian Classical Carnatic Music education globally.
 The platform is designed to connect students with experienced classical music instructors through a user-friendly online booking website, making traditional Indian music accessible to learners worldwide.
 
+
+
 📌 Project Overview
 
 The idea combines traditional guru-shishya parampara with digital learning technologies, offering:
@@ -19,6 +21,8 @@ All details are based on the original presentation.
 
 
 
+
+
 🌍 Vision
 
 Promote and preserve Indian classical arts internationally
@@ -32,6 +36,9 @@ Provide online & offline learning modes
 Leverage social media to build a global community
 
 Offer high-quality digital content (lessons, performances, documentaries)
+
+
+
 
 🎯 Objectives
 
@@ -47,6 +54,9 @@ Strengthen cultural enrichment and knowledge exchange
 
 Build an online ecosystem for Indian classical music education
 
+
+
+
 👥 Target Customers
 
 Students of all ages
@@ -58,6 +68,8 @@ Beginners, intermediate, and advanced musicians
 Anyone interested in Carnatic, Hindustani, or instrumental music
 
 Based on the target customer slide. 
+
+
 
 
 
@@ -88,6 +100,8 @@ Competitive and student-friendly pricing
 
 
 
+
+
 💡 What Makes Our Product Better
 Positioning
 
@@ -101,6 +115,8 @@ Messaging
 
 "Anywhere, Anytime Music Learning"
 
+
+
 💰 Pricing Strategy
 
 According to the pricing slide:
@@ -108,6 +124,9 @@ According to the pricing slide:
 German classical music lessons typically cost €70–€100/month
 
 Our platform offers more affordable options, making Indian music accessible to all
+
+
+
 
 📈 Growth Strategy
 
@@ -129,6 +148,8 @@ Future plan: add payment gateway integration
 
 
 
+
+
 🛠️ Tools & Technologies Used
 🌐 Web Development
 
@@ -144,11 +165,16 @@ Node.js / Express.js
 
 Firebase / MongoDB / PostgreSQL (potential implementations)
 
+
+
+
 📅 Booking & Scheduling
 
 Google Calendar API
 
 Custom JavaScript booking system
+
+
 
 💳 Payment Gateway (Future Enhancement)
 
@@ -158,6 +184,8 @@ PayPal
 
 Razorpay
 
+
+
 🎥 Digital Learning Tools
 
 Zoom / Google Meet
@@ -165,6 +193,8 @@ Zoom / Google Meet
 YouTube embed modules
 
 LMS options (Moodle, TalentLMS)
+
+
 
 📢 Digital Outreach
 
@@ -174,6 +204,9 @@ Google Analytics
 
 SEO tools
 
+
+
+
 🎨 Media & Content Creation
 
 Figma / Canva
@@ -181,6 +214,8 @@ Figma / Canva
 Adobe tools
 
 PowerPoint
+
+
 
 🏁 Conclusion
 
